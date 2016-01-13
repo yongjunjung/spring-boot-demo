@@ -1,8 +1,15 @@
 .gradle
 build/
+bin/
 
-# Ignore Gradle GUI config
-gradle-app.setting
+#IntelliJ IDEA
+.idea
+*.ipr
+*.iml
+*.iws
 
-# Avoid ignoring Gradle wrapper jar file (.jar files are usually ignored)
-!gradle-wrapper.jar
+
+
+
+
+
